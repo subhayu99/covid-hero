@@ -1,4 +1,4 @@
-# SUBHAYU KUMAR BALA
+# COVID HERO
 
 ## Inspiration...
 
