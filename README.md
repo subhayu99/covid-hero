@@ -1,5 +1,7 @@
 # COVID HERO
 
+![img](covid-hero.png)
+
 ## Inspiration...
 
 Since the outcome of fast-growing pandemic Covid-19, it has become important for us as an individual to keep a minimum distance from other well beings that we call social distancing. It has become important to know the precautions and so one may face many doubts and queries related to COVID. To keep us aware and to answer the COVID related queries we have developed a chatbot called COVID-hero that will guide you throughout this global disaster.
