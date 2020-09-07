@@ -1,7 +1,7 @@
 # COVID HERO
 
 <p align="center">                                         
-  <img width="540" height="1110" src="covid-hero.png"> 
+  <img width="440" height="720" src="covid-hero.png"> 
 </p>
 
 ## Inspiration...
